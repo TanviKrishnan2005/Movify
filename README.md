@@ -38,8 +38,8 @@ Tech Stack-
 PREVIEW-
 
 ### 🏠 Home Page
-![Home Page](./Images/Home page.png)
+![Home Page](./Images/Home-page.png)
 
 ### 💖 Favorites Page
-![Favorites Page](./Images/Fav page.png)
+![Favorites Page](./Images/Fav-page.png)
 
