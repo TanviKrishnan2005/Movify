@@ -27,7 +27,7 @@ export const MovieProvider = ({children}) => {
     
     const isFavorite = (movieId) => {
         return favorites.some(movie => movie.id === movieId)
-    }
+    } 
 
     const value = {
         favorites,
