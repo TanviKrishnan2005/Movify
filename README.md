@@ -34,3 +34,8 @@ Tech Stack-
 .TMDB API
 
 
+
+PREVIEW-
+![Home page](./Images/Home page.png)
+![Favorites pages](./Images/Fav page.png)
+
