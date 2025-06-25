@@ -36,6 +36,10 @@ Tech Stack-
 
 
 PREVIEW-
-![Home page](./Images/Home page.png)
-![Favorites pages](./Images/Fav page.png)
+
+### 🏠 Home Page
+![Home Page](./I_mages/Home page.png)
+
+### 💖 Favorites Page
+![Favorites Page](./Images/Fav page.png)
 
