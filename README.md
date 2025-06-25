@@ -3,32 +3,34 @@ A sleek React-based Movie Browser where users can view popular movies and mark t
 
 Features-
 
-Browse popular movies fetched from The Movie Database (TMDB) API
+.Browse popular movies fetched from The Movie Database (TMDB) API
 
-Add or remove favorites by clicking the heart icon
+.Add or remove favorites by clicking the heart icon
 
-Favorite movies are highlighted with a red heart
+.Favorite movies are highlighted with a red heart
 
-Responsive and minimal design with CSS
+.Responsive and minimal design with CSS
+
 
 
 How It Works-
 
-The app uses React Context API to manage the list of favorite movie IDs
+.The app uses React Context API to manage the list of favorite movie IDs
 
-Users click the heart icon to add or remove a movie from favorites
+.Users click the heart icon to add or remove a movie from favorites
 
-Favorite movies display a red heart icon
+.Favorite movies display a red heart icon
+
 
 
 Tech Stack-
 
-React
+.React
 
-CSS
+.CSS
 
-Context API
+.Context API
 
-TMDB API
+.TMDB API
 
 
